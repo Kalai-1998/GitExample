@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-03T00:14:17 IST" name="Default suite" finished-at="2025-05-03T00:14:18 IST" duration-ms="469">
+    <groups>
+    </groups>
+    <test started-at="2025-05-03T00:14:17 IST" name="Default test" finished-at="2025-05-03T00:14:18 IST" duration-ms="469">
+      <class name="com.restassured.RestAssuredClass">
+        <test-method signature="serialization_De()[pri:0, instance:com.restassured.RestAssuredClass@6f96c77]" started-at="2025-05-03T00:14:17 IST" name="serialization_De" finished-at="2025-05-03T00:14:18 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serialization_De -->
+      </class> <!-- com.restassured.RestAssuredClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
